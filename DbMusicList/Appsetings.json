@@ -1,0 +1,5 @@
+{
+  "GetConnectionStrings": {
+    "Cstring": "Data Source=localhost;Initial Catalog=MusicList;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;"
+  }
+}
